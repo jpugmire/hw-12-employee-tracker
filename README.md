@@ -1,10 +1,10 @@
-# JATE Text editor
+# SQL Employee Mgmt Portal
   
-  ### Homework 19
+  ### Homework 12
 
   ## Description
 
-  This is a simple text editor deployed through heroku.
+  This is a SQL-based employee tracker that runs in the command line using NodeJS
   
   [Demo](https://youtu.be/LHNes9uGa5c)
 
